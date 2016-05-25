@@ -1,5 +1,5 @@
 # simplepythonc
-Example of the simplest possible C extension for Python
+Example of the simplest possible C extensions for Python.
 
 Run `python setup.py install`, which will both `build` and `install` the C extension. No further compilation is necessary.
 
